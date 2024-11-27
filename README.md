@@ -50,7 +50,25 @@ Currently pursuing B.Tech in Metallurgical and Material Science Engineering at M
   };
   ```
 </div>
+## Tech Stack ⚡
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+## My Projects 🛠️
+
+<div align="center">
+  <a href="https://github.com/UDDITwork/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDDITwork&repo=UDDITwork&theme=tokyonight" />
+  </a>
+</div>
 ## 🔥 Featured Projects
 
 <details>
@@ -139,24 +157,25 @@ Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░
   ```
 </div>
 
-## 🐍 Contribution Snake
+## Let's Connect! 🤝
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="dist/github-snake.svg">
-</picture>
-
-![snake gif](dist/ocean.gif)
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
+<p align="center">
+  <a href="https://www.udditportfolio.online">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="https://www.linkedin.com/in/uddit-7258792ab">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:2021umt1791@mnit.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/UdditRise">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/uddit_mnit">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 <div align="center">
   <i>"Building the future, one commit at a time."</i>
 </div>
