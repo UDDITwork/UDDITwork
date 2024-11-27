@@ -142,10 +142,12 @@ Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="dist/github-snake.svg">
 </picture>
+
+![snake gif](dist/ocean.gif)
 
 ## ✍️ Random Dev Quote
 
