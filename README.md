@@ -139,15 +139,22 @@ Other        2 hrs 10 mins   ██░░░░░░░░░░░░░░░
   ```
 </div>
 
----
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/github-contribution-grid-snake.svg">
+</picture>
+
+## ✍️ Random Dev Quote
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/UDDITwork/UDDITwork/output/snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+---
 
 <div align="center">
   <i>"Building the future, one commit at a time."</i>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=UDDITwork&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
