@@ -62,18 +62,64 @@ Currently pursuing B.Tech in Metallurgical and Material Science Engineering at M
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-## My Projects 🛠️
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Explore+My+Work;Scroll+Down+%F0%9F%91%87">
+</p>
 
-<div align="center">
-  <a href="https://github.com/UDDITwork/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDDITwork&repo=UDDITwork&theme=tokyonight" />
-  </a>
-</div>
-## 🔥 Featured Projects
+---
 
-<details>
-<summary>AI-Powered Learning Management System (LMS)</summary>
-<br>
+<!-- Projects Section -->
+## 🌟 **My Projects**
+
+### 🚀 **AI-Powered Innovations**
+<p align="center">
+  🌐 I build applications that leverage AI to simplify lives and boost productivity.  
+  Click on any project to explore its repository and features. 👇  
+</p>
+
+| **🚀 Project**                          | **🔍 Description**                                                                                        | 🌐 **Repository**                               | 🚀 **Demo**                           |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
+| 🧠 **AI-Based Mental Health Chatbot**   | Empathetic chatbot offering mental health support using NLP and sentiment analysis.                      | [View Code](https://github.com/UDDITwork/AI-Mental-Health-Chatbot)      | [Live Demo](#)                       |
+| 📄 **AI-Resume Generator**             | Generate resumes tailored for industries using GPT-powered AI models.                                    | [View Code](https://github.com/UDDITwork/AI-Resume-Generator)           | [Live Demo](#)                       |
+| 🗂️ **AI-Document Analyzer**            | Extract summaries and insights from PDFs using NLP pipelines and AI.                                     | [View Code](https://github.com/UDDITwork/AI-Document-Analyzer)          | [Live Demo](#)                       |
+| 📧 **AI Email Chrome Extension**        | Chrome extension to auto-read and reply to job application emails.                                       | [View Code](https://github.com/UDDITwork/AI-Email-Auto-Responder)       | [Live Demo](#)                       |
+| 📊 **AI-Habit Tracker**                 | Tracks habits and suggests improvements based on diary inputs using AI analysis.                         | [View Code](https://github.com/UDDITwork/AI-Habit-Tracker)              | [Live Demo](#)                       |
+
+---
+
+### 🌐 **Web & Full-Stack Projects**
+
+| **🌐 Project**                          | **🔍 Description**                                                                                        | 🌐 **Repository**                               | 🚀 **Demo**                           |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
+| 🚚 **Zooner Delivery App**              | Real-time delivery tracking app optimized for high-traffic usage.                                        | [View Code](https://github.com/UDDITwork/Zooner-Delivery-App)           | [Live Demo](#)                       |
+| 🛒 **The Vintage Foods Cloud Kitchen**  | Cloud kitchen optimizer using data trends to identify high-demand locations.                             | [View Code](https://github.com/UDDITwork/The-Vintage-Foods)             | [Live Demo](#)                       |
+| 🖥️ **Career-Resume Builder**            | Automates professional resume generation with dynamic, tailored content.                                 | [View Code](https://github.com/UDDITwork/Career-Resume-Builder)         | [Live Demo](#)                       |
+| 🏆 **College Placement Hall of Fame**   | Dynamic portal showcasing placement achievements of top-tier students.                                   | [View Code](https://github.com/UDDITwork/Placement-Hall-Of-Fame)        | [Live Demo](#)                       |
+| 🗃️ **ShreeAI Personal Assistant**       | Offline AI voice assistant for productivity and real-time task management.                               | [View Code](https://github.com/UDDITwork/ShreeAI-Personal-Assistant)    | [Live Demo](#)                       |
+
+---
+
+<!-- Tech Stack Section -->
+## 🛠️ **Tech Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-brightgreen?style=for-the-badge&logo=langchain" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-success?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Next.js-SSR-lightgrey?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React.js-Frontend-blueviolet?style=for-the-badge&logo=react" />
+</p>
+
+---
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Let's+Connect!+%F0%9F%93%8D">
+</p>
+
+---
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
