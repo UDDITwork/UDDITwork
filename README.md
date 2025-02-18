@@ -80,10 +80,13 @@ Currently pursuing B.Tech in Metallurgical and Material Science Engineering at M
 
 | **🚀 Project**                          | **🔍 Description**                                                                                        | 🌐 **Repository**                               | 🚀 **Demo**                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
-| 🧠 **Handwriting Character Recognition OCR and Text from image extraction tool**   | Applies OCR to extract text in handwriting from images uploaded.                      | [View Code](https://github.com/UDDITwork/handwriting-character-Recognition)      | [Live Demo](#)                       |
+| 🧠 **Handwriting Character Recognition OCR and Text from image extraction tool**   | Applies OCR to extract text in handwriting from images uploaded.                      | [View Code](https://github.com/UDDITwork/handwriting-character-Recognition)      | [Live Demo](https://zupe.app/uddit_attendance-by-paper-list-image-upload-ocr)                       |
 | 📄 **AI-Resume Generator**             | Generate resumes tailored for industries using GPT-powered AI models.                                    | [View Code](https://github.com/UDDITwork/Career-Resume-Builder)           | [Live Demo](#)                       |
 | 🗂️ **AI-Document Analyzer**            | Extract summaries and insights from PDFs using NLP pipelines and AI.                                     | [View Code](https://github.com/UDDITwork/AI-Document-Analyzer)          | [Live Demo](#)                       |
-| 📧 **Multi-Face Recognition Attendance Software**        | Face Recognition to mark student attendance.                                       | [View Code](https://github.com/UDDITwork/TRIAL-PHASE-APPMNIT-MULTIPHASE-RECOGNITION)       | [Live Demo](#)                       |
+| 📧 **Multi-Face Recognition Attendance Software**        | Face Recognition to mark student attendance.                                       | [View Code](https://github.com/UDDITwork/TRIAL-PHASE-APPMNIT-MULTIPHASE-RECOGNITION)       | [Live Demo](
+
+https://edu-role-selector.lovable.app/ https://zupe.app/uddit_mnit_face_recognise_for_attendance https://08fxcyp06q7qzmam.vercel.app/ 
+https://zupe.app/uddit_mnit_face_recognise_for_attendance)                       |
 | 📊 **Project Progress Tracking Application**                 | Track project progress tracking with multiple tasks under a mission.                         | [View Code](https://github.com/UDDITwork/Mission-Project-Tracking-Application)              | [Live Demo](#)                       |
 
 ---
@@ -92,8 +95,8 @@ Currently pursuing B.Tech in Metallurgical and Material Science Engineering at M
 
 | **🌐 Project**                          | **🔍 Description**                                                                                        | 🌐 **Repository**                               | 🚀 **Demo**                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
-| 🚚 **VIZTA-Kashmir Web App**              | Real-time delivery tracking app optimized for high-traffic usage.                                        | [View Code](https://udditwork.github.io/VIZTA/)           | [Live Demo](#)                       |
-| 🛒 **The Vintage Foods Cloud Kitchen**  | Cloud kitchen optimizer using data trends to identify high-demand locations.                             | [View Code](https://github.com/UDDITwork/The-Vintage-Foods)             | [Live Demo](#)                       |
+| 🚚 **VIZTA-Kashmir Web App**              | Real-time delivery tracking app optimized for high-traffic usage.                                        | [View Code]([https://udditwork.github.io/VIZTA/])           | [Live Demo](https://udditwork.github.io/VIZTA/)                       |
+| 🛒 **DSA_Visualizer**  | Cloud kitchen optimizer using data trends to identify high-demand locations.                             | [View Code](https://github.com/UDDITwork/DSA_Visualizer)             | [Live Demo](https://udditwork.github.io/DSA_Visualizer/)                       |
 | 🖥️ **Career-Resume Builder**            | Automates professional resume generation with dynamic, tailored content.                                 | [View Code](https://github.com/UDDITwork/Career-Resume-Builder)         | [Live Demo](#)                       |
 | 🏆 **College Placement Hall of Fame**   | Dynamic portal showcasing placement achievements of top-tier students.                                   | [View Code](https://github.com/UDDITwork/Placement-Hall-Of-Fame)        | [Live Demo](#)                       |
 | 🗃️ **ShreeAI Personal Assistant**       | Offline AI voice assistant for productivity and real-time task management.                               | [View Code](https://github.com/UDDITwork/ShreeAI-Personal-Assistant)    | [Live Demo](#)                       |
