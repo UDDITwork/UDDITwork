@@ -80,11 +80,11 @@ Currently pursuing B.Tech in Metallurgical and Material Science Engineering at M
 
 | **🚀 Project**                          | **🔍 Description**                                                                                        | 🌐 **Repository**                               | 🚀 **Demo**                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
-| 🧠 **AI-Based Mental Health Chatbot**   | Empathetic chatbot offering mental health support using NLP and sentiment analysis.                      | [View Code](https://github.com/UDDITwork/MENTAL-HEALTH-CHATBOT-)      | [Live Demo](#)                       |
+| 🧠 **Handwriting Character Recognition OCR and Text from image extraction tool**   | Applies OCR to extract text in handwriting from images uploaded.                      | [View Code](https://github.com/UDDITwork/handwriting-character-Recognition)      | [Live Demo](#)                       |
 | 📄 **AI-Resume Generator**             | Generate resumes tailored for industries using GPT-powered AI models.                                    | [View Code](https://github.com/UDDITwork/Career-Resume-Builder)           | [Live Demo](#)                       |
 | 🗂️ **AI-Document Analyzer**            | Extract summaries and insights from PDFs using NLP pipelines and AI.                                     | [View Code](https://github.com/UDDITwork/AI-Document-Analyzer)          | [Live Demo](#)                       |
-| 📧 **AI Email Chrome Extension**        | Chrome extension to auto-read and reply to job application emails.                                       | [View Code](https://github.com/UDDITwork/AI-Email-Auto-Responder)       | [Live Demo](#)                       |
-| 📊 **AI-Habit Tracker**                 | Tracks habits and suggests improvements based on diary inputs using AI analysis.                         | [View Code](https://github.com/UDDITwork/AI-Habit-Tracker)              | [Live Demo](#)                       |
+| 📧 **Multi-Face Recognition Attendance Software**        | Face Recognition to mark student attendance.                                       | [View Code](https://github.com/UDDITwork/TRIAL-PHASE-APPMNIT-MULTIPHASE-RECOGNITION)       | [Live Demo](#)                       |
+| 📊 **Project Progress Tracking Application**                 | Track project progress tracking with multiple tasks under a mission.                         | [View Code](https://github.com/UDDITwork/Mission-Project-Tracking-Application)              | [Live Demo](#)                       |
 
 ---
 
