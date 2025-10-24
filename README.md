@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 UDDIT KUMAR
+# 👨‍💻 UDDIT 
 
 ### Enterprise Solutions Architect | Full-Stack Engineer | AI/ML Specialist
 
@@ -44,11 +44,10 @@
 
 ```typescript
 const professionalProfile = {
-  name: "Uddit Kumar",
+  name: "Uddit ",
   role: "Enterprise Solutions Architect & Full-Stack Engineer",
   education: [
-    "B.Tech - Metallurgical & Materials Science | MNIT Jaipur (2021-2025)",
-    "B.Sc - Data Science | IIT Madras (2021-2023)"
+    "B.Tech - NIT Jaipur (2021-2025)"
   ],
   specialization: "Building Production-Ready Enterprise Systems",
   expertise: {
