@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UDDITwork&color=6202F7&style=for-the-badge)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6202F7&center=true&vCenter=true&width=800&lines=3+Enterprise+Systems+in+Production;500%2B+Clients+Onboarded+Day+1;38-Day+Fastest+Deployment;MERN+%7C+AI%2FML+%7C+Cloud+Native+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6202F7&center=true&vCenter=true&width=800&lines=4+Enterprise+Systems+in+Production;500%2B+Clients+Onboarded+Day+1;38-Day+Fastest+Deployment;MERN+%7C+AI%2FML+%7C+Cloud+Native+Expert" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/Production_Systems-3-success?style=flat-square&labelColor=1e1e1e" height="30"/>
+<img src="https://img.shields.io/badge/Production_Systems-4-success?style=flat-square&labelColor=1e1e1e" height="30"/>
 <br/><strong>Live Enterprise Platforms</strong>
 </td>
 <td width="25%" align="center">
@@ -41,7 +41,6 @@
 </table>
 
 ### 🎯 Professional Profile
-
 ```typescript
 const professionalProfile = {
   name: "Uddit ",
@@ -58,7 +57,7 @@ const professionalProfile = {
     databases: ["MongoDB", "PostgreSQL", "Redis", "Vector Databases"]
   },
   achievements: {
-    liveProjects: 3,
+    liveProjects: 4,
     clientsServed: "500+",
     deploymentSpeed: "38-102 days",
     codeQuality: "Enterprise-grade, Production-ready"
@@ -76,7 +75,7 @@ const professionalProfile = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -117,7 +116,7 @@ Features: Real-time Tracking
 - Automated workflow orchestration
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -158,7 +157,7 @@ Location: Geolocation Services
 - Multi-vendor orchestration
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -199,6 +198,49 @@ Analysis: Portfolio & Risk
 - ML-powered recommendations
 - Financial APIs integration
 - Automated report generation
+
+</td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 💎 **GANTAVYAM**
+#### Wealth Management Platform
+
+[![Live](https://img.shields.io/badge/🌐_LIVE-gantavyam.site-4CAF50?style=for-the-badge)](https://gantavyam.site)
+[![Visit](https://img.shields.io/badge/Explore-4CAF50?style=for-the-badge)](https://gantavyam.site)
+
+</div>
+
+**📈 Business Impact**
+- 💼 **IEPF Recovery** specialist platform
+- 📊 **Wealth Management** for all
+- 🎯 **Financial Planning** solutions
+
+**🔧 Technology Stack**
+```yaml
+Frontend: React.js
+Backend: Node.js + Express
+Database: MongoDB
+Features: Portfolio Management
+Services: Wealth Recovery
+```
+
+**⚡ Key Features**
+- IEPF Fund Recovery
+- Wealth Management
+- Portfolio Optimization
+- Financial Planning
+- Investment Advisory
+- Asset Allocation
+- Share Transmission
+- Demat Services
+
+**🎯 Technical Highlights**
+- Secure financial data handling
+- Compliance & regulatory adherence
+- Real-time portfolio tracking
+- Automated recovery workflows
 
 </td>
 </tr>
@@ -276,18 +318,6 @@ Analysis: Portfolio & Risk
 <th>Links</th>
 </tr>
 <tr>
-<td><strong>🧠 SmartCode Assistant</strong></td>
-<td>RAG-powered code assistant with LoRA fine-tuned models for context-aware programming</td>
-<td><code>RAG</code> <code>LoRA</code> <code>Vector DB</code> <code>Ollama</code></td>
-<td><a href="https://github.com/UDDITwork/SmartCode-Assistant">Repository</a></td>
-</tr>
-<tr>
-<td><strong>🤖 Multi-Face Recognition</strong></td>
-<td>Real-time face recognition attendance system with deep learning</td>
-<td><code>TensorFlow</code> <code>OpenCV</code> <code>Python</code></td>
-<td><a href="https://github.com/UDDITwork/TRIAL-PHASE-APPMNIT-MULTIPHASE-RECOGNITION">Repository</a> • <a href="https://zupe.app/uddit_mnit_face_recognise_for_attendance">Demo</a></td>
-</tr>
-<tr>
 <td><strong>✍️ Handwriting OCR</strong></td>
 <td>Advanced OCR for extracting handwritten text from images</td>
 <td><code>OCR</code> <code>NLP</code> <code>Computer Vision</code></td>
@@ -317,12 +347,6 @@ Analysis: Portfolio & Risk
 <th>Links</th>
 </tr>
 <tr>
-<td><strong>🚚 VIZTA Kashmir</strong></td>
-<td>Real-time delivery tracking app for high-traffic usage</td>
-<td><code>MERN</code> <code>WebSocket</code> <code>Maps API</code></td>
-<td><a href="https://github.com/UDDITwork/VIZTA">Repository</a> • <a href="https://udditwork.github.io/VIZTA/">Demo</a></td>
-</tr>
-<tr>
 <td><strong>🔍 DSA Visualizer</strong></td>
 <td>Interactive visualization of data structures and algorithms</td>
 <td><code>React</code> <code>D3.js</code> <code>Animation</code></td>
@@ -339,12 +363,6 @@ Analysis: Portfolio & Risk
 <td>Dynamic portal showcasing placement achievements</td>
 <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
 <td><a href="https://github.com/UDDITwork/Placement-Hall-Of-Fame">Repository</a></td>
-</tr>
-<tr>
-<td><strong>🗣️ ShreeAI Assistant</strong></td>
-<td>Offline AI voice assistant for productivity</td>
-<td><code>Python</code> <code>Speech Recognition</code> <code>AI</code></td>
-<td><a href="https://github.com/UDDITwork/ShreeAI-Personal-Assistant">Repository</a></td>
 </tr>
 </table>
 
@@ -377,7 +395,6 @@ TypeScript      2 hrs 10 mins  ██░░░░░░░░░░░░░░�
 ## 🎯 PROFESSIONAL FOCUS
 
 <div align="center">
-
 ```mermaid
 mindmap
   root((Technical
@@ -437,11 +454,10 @@ mindmap
 </table>
 
 ### 🎖️ Professional Metrics
-
 ```typescript
 const professionalAchievements = {
   production: {
-    liveSystems: 3,
+    liveSystems: 4,
     totalClients: "500+",
     fastestDeployment: "38 Days",
     averageCycle: "30-90 Days",
@@ -491,7 +507,6 @@ const professionalAchievements = {
 </td>
 </tr>
 </table>
-
 ```javascript
 const coreValues = {
   approach: "Agile development with enterprise standards",
@@ -570,7 +585,7 @@ const coreValues = {
 
 ## 🌟 Professional Tagline
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6202F7&center=true&vCenter=true&width=800&lines=Enterprise+Architect+%7C+Building+Production+Systems;3+Live+Platforms+%7C+500%2B+Clients+Served;38-Day+Record+Deployment+%7C+Full-Stack+Expert;AI%2FML+Integration+%7C+Cloud+Native+Solutions;MERN+Stack+%7C+Scalable+Architecture+%7C+Fast+Delivery" alt="Professional Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6202F7&center=true&vCenter=true&width=800&lines=Enterprise+Architect+%7C+Building+Production+Systems;4+Live+Platforms+%7C+500%2B+Clients+Served;38-Day+Record+Deployment+%7C+Full-Stack+Expert;AI%2FML+Integration+%7C+Cloud+Native+Solutions;MERN+Stack+%7C+Scalable+Architecture+%7C+Fast+Delivery" alt="Professional Tagline" />
 
 ---
 
@@ -591,5 +606,5 @@ const coreValues = {
 ---
 
 <div align="center">
-<sub>© 2025 Uddit Kumar. Built with passion for creating scalable, production-ready systems.</sub>
+<sub>© 2025 Uddit. Built with passion for creating scalable, production-ready systems.</sub>
 </div>
