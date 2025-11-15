@@ -205,42 +205,26 @@ Analysis: Portfolio & Risk
 <div align="center">
 
 ### 💎 **GANTAVYAM**
-#### Wealth Management Platform
+#### Safe Ride Booking Platform for Women in Delhi
 
 [![Live](https://img.shields.io/badge/🌐_LIVE-gantavyam.site-4CAF50?style=for-the-badge)](https://gantavyam.site)
 [![Visit](https://img.shields.io/badge/Explore-4CAF50?style=for-the-badge)](https://gantavyam.site)
 
 </div>
 
-**📈 Business Impact**
-- 💼 **IEPF Recovery** specialist platform
-- 📊 **Wealth Management** for all
-- 🎯 **Financial Planning** solutions
+
 
 **🔧 Technology Stack**
 ```yaml
 Frontend: React.js
 Backend: Node.js + Express
 Database: MongoDB
-Features: Portfolio Management
-Services: Wealth Recovery
+
 ```
 
-**⚡ Key Features**
-- IEPF Fund Recovery
-- Wealth Management
-- Portfolio Optimization
-- Financial Planning
-- Investment Advisory
-- Asset Allocation
-- Share Transmission
-- Demat Services
 
-**🎯 Technical Highlights**
-- Secure financial data handling
-- Compliance & regulatory adherence
-- Real-time portfolio tracking
-- Automated recovery workflows
+
+
 
 </td>
 </tr>
